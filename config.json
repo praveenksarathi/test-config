@@ -1,3 +1,5 @@
 {
-	"sample": "configuration"
+	"sample": "configuration",
+	"datapad" : 10,
+	"income" : 102934
 }
