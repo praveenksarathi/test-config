@@ -1,4 +1,4 @@
-FROM us.gcr.io/kohls-cx-lle/base-images/debian:3.0
+
 
 ENV AIRFLOW_HOME = /root/airflow
 
